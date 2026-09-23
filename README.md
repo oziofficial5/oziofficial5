@@ -1,10 +1,13 @@
 <div align="center">
 
-# Awais Abdul Khaliq
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Awais Abdul Khaliq — PhD candidate in Computer Science, Università degli Studi di Milano" width="100%">
+</picture>
 
-**PhD candidate in Computer Science**
+<br><br>
 
-Università degli Studi di Milano · Dipartimento di Informatica "Giovanni Degli Antoni" · ISLab
+Dipartimento di Informatica "Giovanni Degli Antoni" · ISLab
 
 <br>
 
@@ -205,6 +208,13 @@ Research stays outside the thesis, both applied retrieval systems:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oziofficial5/oziofficial5/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/oziofficial5/oziofficial5/output/github-snake-light.svg" alt="Contribution graph" width="100%">
+</picture>
 
 <br>
 

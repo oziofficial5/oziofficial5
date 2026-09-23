@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Awais Abdul Khaliq, PhD candidate in Computer Science">
+  <defs>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7c93ff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#7c93ff" stop-opacity="0"/>
+    </linearGradient>
+    <marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#6e7681"/>
+    </marker>
+    <marker id="arn" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#ff7b72"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="260" rx="10" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="10" fill="none" stroke="#30363d"/>
+  <rect x="60" y="62" width="4" height="86" rx="2" fill="#7c93ff"/>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+    <text x="86" y="96" font-size="38" font-weight="700" fill="#e6edf3" letter-spacing="-0.6">Awais Abdul Khaliq</text>
+    <text x="88" y="126" font-size="16.5" font-weight="500" fill="#b1bac4">PhD Candidate in Computer Science &#183; Universit&#224; degli Studi di Milano</text>
+    <text x="88" y="152" font-size="14" fill="#8b949e" letter-spacing="0.3">Legal NLP &#183; Graph Neural Networks &#183; Evaluation Methodology</text>
+    <rect x="88" y="176" width="210" height="2" rx="1" fill="#7c93ff" opacity="0.85"/>
+    <text x="88" y="204" font-size="13" fill="#8b949e" font-style="italic">When structure helps a model, is it the structure or the capacity?</text>
+  </g>
+
+  <!-- operator motif: four typed edges into one node, NEG defeating AFF -->
+  <g transform="translate(860,42)">
+    <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.8">
+      <text x="2"  y="22"  fill="#6e7681">AFF</text>
+      <text x="2"  y="72"  fill="#ff7b72">NEG</text>
+      <text x="2"  y="122" fill="#ffa657">EXC</text>
+      <text x="2"  y="172" fill="#b197fc">OVR</text>
+    </g>
+
+    <circle cx="62" cy="18"  r="7" fill="#0d1117" stroke="#6e7681" stroke-width="1.8"/>
+    <circle cx="62" cy="68"  r="7" fill="#0d1117" stroke="#ff7b72" stroke-width="1.8"/>
+    <circle cx="62" cy="118" r="7" fill="#0d1117" stroke="#ffa657" stroke-width="1.8"/>
+    <circle cx="62" cy="168" r="7" fill="#0d1117" stroke="#b197fc" stroke-width="1.8"/>
+
+    <path d="M72 18  C 130 18, 150 80, 210 93"  fill="none" stroke="#6e7681" stroke-width="1.6" stroke-dasharray="3 3" opacity="0.55" marker-end="url(#ar)"/>
+    <path d="M72 68  C 130 68, 150 88, 210 93"  fill="none" stroke="#ff7b72" stroke-width="2.4" marker-end="url(#arn)"/>
+    <path d="M72 118 C 130 118, 150 100, 210 93" fill="none" stroke="#ffa657" stroke-width="1.6" opacity="0.75"/>
+    <path d="M72 168 C 130 168, 150 108, 210 93" fill="none" stroke="#b197fc" stroke-width="1.6" opacity="0.75"/>
+
+    <!-- the defeat: AFF struck out where NEG overrides it -->
+    <line x1="132" y1="43" x2="149" y2="59" stroke="#ff7b72" stroke-width="2.6" stroke-linecap="round"/>
+
+    <circle cx="222" cy="93" r="15" fill="#0d1117" stroke="#7c93ff" stroke-width="2.4"/>
+    <circle cx="222" cy="93" r="5"  fill="#7c93ff"/>
+  </g>
+</svg>
