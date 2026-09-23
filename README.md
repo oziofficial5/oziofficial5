@@ -45,6 +45,19 @@ structure, validated across eighteen graph benchmarks.
 
 ---
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oziofficial5/oziofficial5/refs/heads/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/oziofficial5/oziofficial5/refs/heads/output/github-snake-light.svg" alt="Contribution graph" width="100%">
+</picture>
+
+</div>
+
+<br>
+
+---
+
 ## Repositories
 
 <table>
@@ -209,14 +222,6 @@ Research stays outside the thesis, both applied retrieval systems:
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oziofficial5/oziofficial5/refs/heads/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/oziofficial5/oziofficial5/refs/heads/output/github-snake-light.svg" alt="Contribution graph" width="100%">
-</picture>
-
-<br>
 
 <sub>Legal NLP · graph neural networks · defeasible reasoning · retrieval-augmented generation · evaluation methodology · knowledge extraction</sub>
 
